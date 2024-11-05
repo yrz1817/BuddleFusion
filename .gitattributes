@@ -5,3 +5,4 @@
 *.ipch
 # 忽略 .sdf 文件
 *.sdf
+*.db
